@@ -1,16 +1,8 @@
-# Core
-streamlit==1.12.0
-pandas==1.4.0
-numpy==1.22.0
-plotly==5.6.0
-
-# Machine Learning
-scikit-learn==1.0.2
-yfinance==0.1.70
-joblib==1.1.0
-
-# Optional (for IterativeImputer)
-scipy==1.8.0
-
-# Visualization
-matplotlib==3.5.0
+streamlit>=1.22.0
+pandas>=1.5.3
+numpy>=1.23.5
+plotly>=5.11.0
+scikit-learn>=1.2.0
+yfinance>=0.2.18
+joblib>=1.2.0
+scipy>=1.10.0
